@@ -1,0 +1,22 @@
+#result {
+  display: none;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: #428aff;
+}
+
+.col-md-4 {
+  background-color: gray;
+}
+
+.panel {
+  background-color: salmon;
+}
+
+p {
+  text-align: justify;
+  text-indent: 1.5em;
+  margin-top 0;
+}
